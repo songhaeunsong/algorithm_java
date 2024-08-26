@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Solution1 {
 	static int T;
 	static int N;
 	static int count;
