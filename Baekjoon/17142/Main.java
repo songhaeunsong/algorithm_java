@@ -47,7 +47,7 @@ public class Main {
 
             System.out.println(min == Integer.MAX_VALUE ? -1 : min);
 
-        }
+        } // test
 
     }
 
